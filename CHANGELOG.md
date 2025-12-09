@@ -4,5 +4,8 @@
 Fixes:
  - None
 
+## v0.0.4
+Fixes:
+ - None
 Features:
- - Initial version of application
+ - Added dynamic blink speed feature
